@@ -2,7 +2,6 @@
 - 👀 I’m interested in music
 - 🌱 I’m currently learning pascal and I'm starting college
 - 💞️ I’m looking to collaborate on biomedicine programing
-- 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm starting to lean programing
 
