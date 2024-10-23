@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cutti-larissa
-- 👀 I’m interested in music
+- 👀 I’m interested in music and programming
 - 🌱 I’m currently learning C and R, I started college this year
 - 💞️ I’m looking to collaborate on biomedicine programing
 - 😄 Pronouns: she/her
