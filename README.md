@@ -4,8 +4,3 @@
 - 💞️ I am looking to collaborate on programming focused on the health area.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My favorite color is purple and my favorite animal is Zebra
-
-<!---
-Cutti-larissa/Cutti-larissa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
