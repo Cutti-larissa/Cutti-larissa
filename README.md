@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cutti-larissa
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently studying C, C++, R and python
-- 💞️ I am looking to collaborate on programming focused on the health area.
+- 💞️ I am looking to collaborate on programming focused on the health area
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My favorite color is purple and my favorite animal is Zebra
