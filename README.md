@@ -64,9 +64,6 @@
 
 
 ---
-## GitHub Stats
-
----
 
 ## Education
 
