@@ -1,6 +1,88 @@
-- 👋 Hi, I’m @Cutti-larissa
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently studying C, C++, R and python
-- 💞️ I am looking to collaborate on programming focused on the health area
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: My favorite color is purple and my favorite animal is Zebra
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header&text=&fontSize=90" width="100%" alt="header" />
+
+<h1 align="center">Hi there, I'm Larissa 👋</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&center=true&vCenter=true&width=560&height=45&color=9B59B6&lines=Biomedical+Informatics+Student+%40+UFPR;Machine+Learning+Enthusiast;Coding+for+Health+%F0%9F%92%9C" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  Curious about <b>Machine Learning</b>, <b>data</b> and how code can make a difference in <b>healthcare</b>.<br>
+  Always learning, always building something new. 💜
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/larissa-cutti">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## 🚀 Skills
+
+**Languages**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+</p>
+
+**AI, Data & Frameworks**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
+</p>
+
+## 🛠️ Tools & Environment
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
+</p>
+
+---
+ 
+## Áreas de Interesse
+ 
+- Deep Learning → Classificação/Detecção de objetos e impactos de dados anonimizados 
+- Bioinformática → Análise e visualização de dados biológicos 
+- Segurança → Criptografia, assinatura digital e anonimização 
+
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Cutti-larissa&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cutti-larissa&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cutti-larissa&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cutti-larissa&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+---
+
+## 📚 Education
+
+**Biomedical Informatics** — Federal University of Paraná (UFPR) 🎓
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=80&section=footer&text=&fontSize=90" width="100%" alt="footer" />
