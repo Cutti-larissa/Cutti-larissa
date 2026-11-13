@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 Skills
+## Skills
 
 **Languages**
 
@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
 </p>
 
-## 🛠️ Tools & Environment
+## Tools & Environment
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
@@ -64,24 +64,11 @@
 
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Cutti-larissa&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cutti-larissa&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cutti-larissa&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cutti-larissa&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</p>
+## GitHub Stats
 
 ---
 
-## 📚 Education
+## Education
 
 **Biomedical Informatics** — Federal University of Paraná (UFPR) 🎓
 
